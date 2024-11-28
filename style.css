@@ -1,0 +1,28 @@
+h1 , h2{
+    color:rgb(232, 67, 38);
+}
+
+h3 {
+    color: rgba(193, 131, 5, 0.902);
+}
+
+h4 {
+    color: rgb(148, 117, 117);
+}
+
+body {
+    background: url(img_vid/movingflower.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ background-size: cover;
+}
+
+div {
+  border: 3px solid black;
+  background-color: rgb(131, 98, 65);
+  padding-top: 2px;
+  padding-right: 15px;
+  padding-bottom: 2px;
+  padding-left: 15px;
+}
